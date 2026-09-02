@@ -1,22 +1,142 @@
-<h1 align="center">Hi, I'm Min</h1>
-<h3 align="center">A Software engineer from Australia</h3>
+<h1 align="center">Hi, I'm Min 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minwu85&label=Profile%20views&color=0e75b6&style=flat" alt="minwu85" /> </p>
+<h3 align="center">
+  Software Engineering Student | Full-Stack Development | Systems & Networking
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minwu85" alt="minwu85" /></a> </p>
-
-- 📫 How to reach me **min.wu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  🇦🇺 Australia · 🎓 Macquarie University · 💻 Software Engineering
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minwu85&show_icons=true&locale=en&layout=compact" alt="minwu85" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minwu85&show_icons=true&locale=en" alt="minwu85" /></p>
+I'm a Software Engineering student at **Macquarie University**, currently working towards a 
+**Bachelor of Engineering (Software, Honours)**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minwu85&" alt="minwu85" /></p>
+I enjoy building software, understanding how systems work, and solving technical problems. 
+My experience includes full-stack web development, database design, object-oriented programming, 
+systems programming, testing, and networking.
 
+I'm also one of the primary developers for **Step Into INTL Law**, where I work mainly on 
+front-end development and website design while contributing to back-end functionality.
+
+### 🔧 What I work with
+
+- 💻 Full-stack web development
+- 🌐 Front-end development & UI/UX
+- 🗄️ Relational databases & SQL
+- ⚙️ Systems programming & debugging
+- 🧪 Unit testing & software quality
+- 🌐 Networking & IT systems
+- 🔧 Git & collaborative development
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🌐 **RESTful API & System Architecture** | Full-stack web application with authentication, order management and a layered backend architecture. Deployed online with Vercel. | Java, TypeScript, JavaScript, HTML, CSS |
+| 🗄️ **Relational Database & SQL** | Designed and implemented a fully normalised relational database with constraints, relationships, data population and advanced SQL queries. | SQL, Database Design |
+| ⚔️ **Turn-Based RPG Combat Game** | Object-oriented RPG combat system with JUnit testing, game-state management and recursive battle-log data structures. | Java, JUnit |
+| 🔍 **Reverse Engineering & Binary Processing** | Analysed compiled binaries using GDB and x86-64 assembly, and reverse-engineered undocumented binary file formats using C. | C, x86-64 Assembly, GDB |
+| 🤖 **MQ Sentinel – Space Debris Cleanup** | Developed embedded software for a robotic system using IR sensors, motor control, encoders and reactive navigation. | C++, Arduino, PlatformIO |
+| 🎮 **Parachute Survival Game** | Designed movement and obstacle systems and developed acceptance tests to identify and resolve gameplay issues. | Godot, GDScript |
+
+---
+
+## 🌐 Featured Work
+
+### Step Into INTL Law
+**Member of Technology · Jul 2026 – Present**
+
+One of the two primary developers responsible for the organisation's website.
+
+- Focus on **front-end development, website design and UI/UX**
+- Contribute to **back-end functionality and integrations**
+- Develop and maintain website components
+- Improve accessibility, usability and overall user experience
+- Collaborate on the organisation's digital platform and online resources
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  </a>
+  <a href="https://html.spec.whatwg.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  </a>
+</p>
+
+### Programming
+**C · Java · Python · JavaScript · TypeScript · SQL**
+
+### Web Development
+**HTML · CSS · JavaScript · TypeScript · Node.js · REST APIs**
+
+### Software Engineering
+**Object-Oriented Design · Data Structures · Unit Testing · Git · Code Review · Documentation**
+
+### Systems & Networking
+**C · x86-64 Assembly · GDB · Arduino · PlatformIO · Networking Fundamentals**
+
+### Creative Tools
+**Adobe Premiere Pro · Photoshop · Illustrator · Microsoft Office**
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minwu85&show_icons=true&locale=en" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minwu85&layout=compact&locale=en" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minwu85" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Projects
+
+- 🌐 **RESTful API:** https://paypath2021.vercel.app/
+- ⚔️ **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
+
+---
+
+## 📫 Contact
+
+📧 **min.wu188@gmail.com**
