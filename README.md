@@ -52,7 +52,7 @@ front-end development and website design while contributing to back-end function
 ### Step Into INTL Law
 **Member of Technology · Jul 2026 – Present**
 
-One of the two primary developers responsible for the organisation's website.
+Main developer responsible for the organisation's website.
 
 - Focus on **front-end development, website design and UI/UX**
 - Contribute to **back-end functionality and integrations**
