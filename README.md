@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Min 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student | Full-Stack Development | Systems & Networking
+  Software Engineering | Full-Stack Development | Systems & Networking
 </h3>
 
 <p align="center">
@@ -19,8 +19,9 @@ I enjoy building software, understanding how systems work, and solving technical
 My experience includes full-stack web development, database design, object-oriented programming, 
 systems programming, testing, and networking.
 
-I'm also one of the primary developers for **Step Into INTL Law**, where I work mainly on 
-front-end development and website design while contributing to back-end functionality.
+## 📫 Contact
+
+📧 **min.wu188@gmail.com**
 
 ### 🔧 What I work with
 
@@ -31,6 +32,13 @@ front-end development and website design while contributing to back-end function
 - 🧪 Unit testing & software quality
 - 🌐 Networking & IT systems
 - 🔧 Git & collaborative development
+
+---
+
+## 🔗 Projects
+
+- 🌐 **RESTful API:** https://paypath2021.vercel.app/
+- ⚔️ **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
 
 ---
 
@@ -100,21 +108,6 @@ Main developer responsible for the organisation's website.
   </a>
 </p>
 
-### Programming
-**C · Java · Python · JavaScript · TypeScript · SQL**
-
-### Web Development
-**HTML · CSS · JavaScript · TypeScript · Node.js · REST APIs**
-
-### Software Engineering
-**Object-Oriented Design · Data Structures · Unit Testing · Git · Code Review · Documentation**
-
-### Systems & Networking
-**C · x86-64 Assembly · GDB · Arduino · PlatformIO · Networking Fundamentals**
-
-### Creative Tools
-**Adobe Premiere Pro · Photoshop · Illustrator · Microsoft Office**
-
 ---
 
 ## 📊 GitHub Statistics
@@ -130,13 +123,3 @@ Main developer responsible for the organisation's website.
 
 ---
 
-## 🔗 Projects
-
-- 🌐 **RESTful API:** https://paypath2021.vercel.app/
-- ⚔️ **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
-
----
-
-## 📫 Contact
-
-📧 **min.wu188@gmail.com**
