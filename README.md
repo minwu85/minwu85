@@ -14,7 +14,9 @@
 
 I'm a Software Engineering student at **Macquarie University**, currently studying 
 **Bachelor of Engineering (Software, Honours)**. My experience includes full-stack web development, database design, object-oriented programming, 
-systems programming, testing, and networking. Contact: **min.wu188@gmail.com**
+systems programming, testing, and networking. 
+
+Contact: **min.wu188@gmail.com**
 
 ### 🔧 What I work with
 
@@ -35,7 +37,7 @@ systems programming, testing, and networking. Contact: **min.wu188@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects description  
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -48,7 +50,7 @@ systems programming, testing, and networking. Contact: **min.wu188@gmail.com**
 
 ---
 
-## 🌐 Featured Work
+## 🌐 Work Experience 
 
 ### Step Into INTL Law
 **Member of Technology · Jul 2026 – Present**
