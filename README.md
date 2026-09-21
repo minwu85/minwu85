@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student at **Macquarie University**, currently studying 
-**Bachelor of Engineering (Software, Honours)**. My experience includes full-stack web development, database design, object-oriented programming, 
+I'm a Software Engineer with 3+ years of experience in software and full-stack web development. My experience includes full-stack web development, database design, object-oriented programming, 
 systems programming, testing, and networking. 
 
 Contact: **min.wu188@gmail.com**
