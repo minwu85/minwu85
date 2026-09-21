@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Min </h1>
 
 <h3 align="center">
-  Software Engineering | Full-Stack Development 
+   💻 Software Engineering | Full-Stack Development 
 </h3>
-
-<p align="center">
- 💻 Software Engineering
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Software Engineer with 3+ years of experience in software and full-stack web development. My experience includes full-stack web development, database design, object-oriented programming, 
 systems programming, testing, and networking. 
@@ -45,7 +41,7 @@ Contact: **min.wu188@gmail.com**
 | ⚔️ **Turn-Based RPG Combat Game** | Object-oriented RPG combat system with JUnit testing, game-state management and recursive battle-log data structures. | Java, JUnit |
 | 🔍 **Reverse Engineering & Binary Processing** | Analysed compiled binaries using GDB and x86-64 assembly, and reverse-engineered undocumented binary file formats using C. | C, x86-64 Assembly, GDB |
 | 🤖 **MQ Sentinel – Space Debris Cleanup** | Developed embedded software for a robotic system using IR sensors, motor control, encoders and reactive navigation. | C++, Arduino, PlatformIO |
-| 🎮 **Parachute Survival Game** | Designed movement and obstacle systems and developed acceptance tests to identify and resolve gameplay issues. | Godot, GDScript |
+| 🎮 **Parachute Survival Game** | Designed movement and obstacle systems and developed acceptance tests to identify and resolve gameplay issues. | Java, JUnit |
 
 ---
 
