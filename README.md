@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Min 👋</h1>
+<h1 align="center">Hi, I'm Min </h1>
 
 <h3 align="center">
-  Software Engineering | Full-Stack Development | Systems & Networking
+  Software Engineering | Full-Stack Development 
 </h3>
 
 <p align="center">
-  🇦🇺 Australia · 🎓 Macquarie University · 💻 Software Engineering
+ 💻 Software Engineering
 </p>
 
 ---
