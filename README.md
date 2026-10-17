@@ -15,20 +15,18 @@ Contact: **min.wu188@gmail.com**
 
 ### 🔧 What I work with
 
-- 💻 Full-stack web development
-- 🌐 Front-end development & UI/UX
-- 🗄️ Relational databases & SQL
-- ⚙️ Systems programming & debugging
-- 🧪 Unit testing & software quality
-- 🌐 Networking & IT systems
-- 🔧 Git & collaborative development
+- Full-stack web development
+- Front-end development & UI/UX
+- Systems programming & debugging
+- Unit testing & software quality
+- Git & collaborative development
 
 ---
 
 ## 🔗 Projects
 
-- 🌐 **RESTful API:** https://paypath2021.vercel.app/
-- ⚔️ **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
+-  **RESTful API:** https://paypath2021.vercel.app/
+-  **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
 
 ---
 
@@ -36,12 +34,12 @@ Contact: **min.wu188@gmail.com**
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🌐 **RESTful API & System Architecture** | Full-stack web application with authentication, order management and a layered backend architecture. Deployed online with Vercel. | Java, TypeScript, JavaScript, HTML, CSS |
-| 🗄️ **Relational Database & SQL** | Designed and implemented a fully normalised relational database with constraints, relationships, data population and advanced SQL queries. | SQL, Database Design |
-| ⚔️ **Turn-Based RPG Combat Game** | Object-oriented RPG combat system with JUnit testing, game-state management and recursive battle-log data structures. | Java, JUnit |
-| 🔍 **Reverse Engineering & Binary Processing** | Analysed compiled binaries using GDB and x86-64 assembly, and reverse-engineered undocumented binary file formats using C. | C, x86-64 Assembly, GDB |
-| 🤖 **MQ Sentinel – Space Debris Cleanup** | Developed embedded software for a robotic system using IR sensors, motor control, encoders and reactive navigation. | C++, Arduino, PlatformIO |
-| 🎮 **Parachute Survival Game** | Designed movement and obstacle systems and developed acceptance tests to identify and resolve gameplay issues. | Java, JUnit |
+|  **RESTful API & System Architecture** | Full-stack web application with authentication, order management and a layered backend architecture. Deployed online with Vercel. | Java, TypeScript, JavaScript, HTML, CSS |
+|  **Relational Database & SQL** | Designed and implemented a fully normalised relational database with constraints, relationships, data population and advanced SQL queries. | SQL, Database Design |
+|  **Turn-Based RPG Combat Game** | Object-oriented RPG combat system with JUnit testing, game-state management and recursive battle-log data structures. | Java, JUnit |
+|  **Reverse Engineering & Binary Processing** | Analysed compiled binaries using GDB and x86-64 assembly, and reverse-engineered undocumented binary file formats using C. | C, x86-64 Assembly, GDB |
+|  **MQ Sentinel – Space Debris Cleanup** | Developed embedded software for a robotic system using IR sensors, motor control, encoders and reactive navigation. | C++, Arduino, PlatformIO |
+|  **Parachute Survival Game** | Designed movement and obstacle systems and developed acceptance tests to identify and resolve gameplay issues. | Java, JUnit |
 
 ---
 
