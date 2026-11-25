@@ -23,7 +23,8 @@ Contact: **min.wu188@gmail.com**
 
 ## 🔗 Projects
 
--  **RESTful API:** https://paypath2021.vercel.app/
+-  **Stella - 2026聚光灯21天游戏创作挑战**: https://www.taptap.cn/app/983488?os=pc
+-  **Paypath - RESTful API:** https://paypath2021.vercel.app/
 -  **Realm of Strikes and Spells:** https://github.com/minhvyha/Realm-of-Strikes-and-Spells-RSS
 
 ---
@@ -32,7 +33,8 @@ Contact: **min.wu188@gmail.com**
 
 | Project | Description | Technologies |
 |---|---|---|
-|  **RESTful API & System Architecture** | Full-stack web application with authentication, order management and a layered backend architecture. Deployed online with Vercel. | Java, TypeScript, JavaScript, HTML, CSS |
+|  **Stella: 2026 Spotlight 21-Day TapTap Game Jam Challenge** | Game Development Team Member (Programming) | Godot Engine |
+|  **Paypath: RESTful API & System Architecture** | Full-stack web application with authentication, order management and a layered backend architecture. Deployed online with Vercel. | Java, TypeScript, JavaScript, HTML, CSS |
 
 ---
 
