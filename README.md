@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Software Engineer with 3+ years of experience in software and web development. 
+I’m a Software Engineer with 3+ years of experience in programming, designing applications and web development.
 
 Contact: **min.wu188@gmail.com**
 
